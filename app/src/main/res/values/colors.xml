@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#090C0B</color>
+    <color name="bg_elevated">#121615</color>
+    <color name="bg_subtle">#1A201E</color>
+    <color name="fg">#EEF5F1</color>
+    <color name="muted">#8B968F</color>
+    <color name="on">#5DCAA0</color>
+    <color name="on_fg">#062016</color>
+    <color name="on_dim">#295DCAA0</color>
+    <color name="accent">#C8D0CC</color>
+    <color name="accent_fg">#090C0B</color>
+    <color name="bubble_on">#5DCAA0</color>
+    <color name="bubble_on_fg">#062016</color>
+    <color name="bubble_off">#121615</color>
+    <color name="bubble_off_fg">#EEF5F1</color>
+    <color name="launcher_bg">#090C0B</color>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TapVPN</string>
+    <string name="vpn_on">Đang bật</string>
+    <string name="vpn_off">Đã tắt</string>
+    <string name="vpn_on_hint">Mọi lưu lượng đang bị chặn</string>
+    <string name="vpn_off_hint">Chạm để bật</string>
+    <string name="overlay_label">Nút nổi</string>
+    <string name="overlay_hint">Nút bắt mọi lần chạm. Giữ trên màn hình ngang.</string>
+    <string name="overlay_running">Nút nổi đang hiện trên các app</string>
+    <string name="targets_label">App target</string>
+    <string name="targets_hint">Chỉ app được chọn đi qua VPN</string>
+    <string name="targets_count">%d app</string>
+    <string name="targets_title">Chọn app</string>
+    <string name="targets_search">Tìm ứng dụng</string>
+    <string name="targets_empty">Không thấy app</string>
+    <string name="targets_none">Chưa chọn app — vào App target rồi chọn app sẽ đi qua VPN</string>
+    <string name="vpn_targets_running">VPN cho %d app đã chọn</string>
+    <string name="vpn_blocking">Đang chặn mạng</string>
+    <string name="pin_menu">Ghim vị trí</string>
+    <string name="timer_label">Hẹn giờ tắt</string>
+    <string name="timer_hint_on">Tự tắt sau thời gian đã chọn. Bấm giữa chừng là dừng ngay.</string>
+    <string name="timer_hint_off">Tắt — chạy đến khi bấm dừng.</string>
+    <string name="timer_time">Thời gian</string>
+    <string name="timer_value">%1$.1f s</string>
+    <string name="size_label">Kích thước</string>
+    <string name="size_dp">%d dp</string>
+    <string name="channel_vpn">VPN nội bộ</string>
+    <string name="channel_overlay">Nút nổi</string>
+    <string name="vpn_permission_denied">Cần quyền VPN để bật tunnel</string>
+    <string name="subtitle">VPN nội bộ với nút nổi. Bấm bật, bấm tắt.</string>
+    <string name="crash_title">Lần trước app bị crash</string>
+    <string name="crash_close">Đã hiểu</string>
+</resources>
